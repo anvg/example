@@ -12,8 +12,9 @@ means they are plain text, but with a few special capabilities.  The only
 Markdown capability used in this story is links.  By putting text in brackets
 and a URL in parentheses, you can add a link to the story.  For example, the
 following text would turn "here" into a link to Google:
+[here](https://github.com/vt3106nu/example/blob/master/newPath/README.md)
 
-    Click [here](https://github.com/vt3106nu/example/newPath/README.md) to visit Google.
+    Click [here](https://github.com/vt3106nu/example/blob/master/newPath/README.md) to visit Google.
 
 ## Contribution Guidelines
 
